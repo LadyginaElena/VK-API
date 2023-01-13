@@ -9,3 +9,4 @@ class Test:
         response = self.user.get_user_name()
         print(response.json_data)
         print(response.headers)
+        print(response.request_headers)
