@@ -10,11 +10,6 @@ Automation REST API testing project on Python
 [OUR]👉
 [<img src="https://logosmarken.com/wp-content/uploads/2021/03/Trello-Logo-650x366.png" alt='Trello' width="115" height="70">]()
 
-## Table of contents
-- [Quick start](#some-start)
-- [Pytest INFO](#some-pytest)
-- [Allure](#some-allure)
-
 ___
 ## Quick start:<a name="some-stat"></a> [![Docker](https://img.shields.io/badge/docker-website-brightgreen.svg?style=flat-square)](https://docs.docker.com/)
 
