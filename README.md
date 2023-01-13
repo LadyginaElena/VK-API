@@ -6,9 +6,9 @@ Automation REST API testing project on Python
 #  Swagger Petstore
 
 [Api documentation]👉
-[<img src="https://github.com/ivanovajulika/Api_Petstore/raw/main/picture/Swagger.jpg" alt='Swagger' width="200" height="150">](https://petstore.swagger.io/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/VK_Compact_Logo_%282021-present%29.svg/1200px-VK_Compact_Logo_%282021-present%29.svg.png" alt='VK' width="150" height="150">](https://dev.vk.com/reference)
 [OUR]👉
-[<img src="https://logosmarken.com/wp-content/uploads/2021/03/Trello-Logo-650x366.png" alt='Trello' width="115" height="70">](https://trello.com/b/6n6e0r1L/psevdokodapip)
+[<img src="https://logosmarken.com/wp-content/uploads/2021/03/Trello-Logo-650x366.png" alt='Trello' width="115" height="70">]()
 
 ## Table of contents
 - [Quick start](#some-start)

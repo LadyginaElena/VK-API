@@ -9,7 +9,7 @@ payload = {
 class User(APIRequest):
     def __init__(self, path=""):
         super().__init__()
-        self.endpoint = "user"
+        self.endpoint = "user.get"
         self.path = path
         self.response = APIRequest()
 
