@@ -1,5 +1,4 @@
 from vk_api.api_methods import User
-from vk_api.api_client import APIRequest
 
 
 class Test:
