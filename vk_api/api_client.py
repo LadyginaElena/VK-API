@@ -2,10 +2,8 @@ from dataclasses import dataclass
 import allure
 import logging
 import requests
-from requests import Response
 import json
 from tests.conf import ACCESS_TOKEN
-import vk_api
 
 # session = vk_api.Vkapi(token=ACCESS_TOKEN)
 # vk = session
