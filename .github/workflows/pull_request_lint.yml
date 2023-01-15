@@ -16,6 +16,7 @@ jobs:
       - name: flake8 Lint
         uses: py-actions/flake8@v2
         with:
-          ignore: "E501", "F841"
+          exclude: "tests/conf.py"
+          ignore: "F841"
           max-line-length: "100"
 
