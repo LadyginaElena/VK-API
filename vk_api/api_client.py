@@ -10,6 +10,7 @@ import vk_api
 # session = vk_api.Vkapi(token=ACCESS_TOKEN)
 # vk = session
 
+
 @dataclass
 class Response:
     status_code: int
@@ -31,9 +32,7 @@ def validate_json(data):
 class APIRequest:
     def __init__(self):
         self.base_url = "https://api.vk.com/method"
-        self.headers = {
-            "access_token": ACCESS_TOKEN
-        }
+        self.headers = {"access_token": ACCESS_TOKEN}
 
     def get(self, endpoint="", path="", params=None):
         url = f"{self.base_url}/{endpoint}/{path}"

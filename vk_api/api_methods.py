@@ -1,9 +1,6 @@
 from vk_api.api_client import APIRequest
 
-payload = {
-    "user_id": "7538793",
-    "V": "5.131"
-}
+payload = {"user_id": "7538793", "V": "5.131"}
 
 
 class User(APIRequest):
